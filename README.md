@@ -1,7 +1,7 @@
 
-# Travel Reservation System
+# Ticket Reservation System
 
-Travel Reservation System is a project created to reserve and make payment for bus.
+Ticket Reservation System is a project created to reserve and make payment for bus.
 
 ## Technical Documentation
 
