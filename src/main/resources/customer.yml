@@ -1,0 +1,12 @@
+data-init:
+  customerList:
+    -
+      firstName: Kripashwar
+      middleName: 
+      lastName: Dhungana
+      password: 1234
+      gender: male
+      address: kathmandu
+      username: testuser@gmail.com
+      email: testuser@gmail.com
+      mobileNumber: 9811111111

@@ -1,0 +1,14 @@
+data-init:
+  roleList:
+  -
+    name : Reserve Ticket
+    description : Reserve Ticket
+    permission : RESERVE_TICKET
+  -
+    name : View Reserved Ticket
+    description : View Reserved Ticket
+    permission : VIEW_RESERVED_TICKET
+  -
+    name : Payment
+    description : Payment
+    permission : PAYMENT

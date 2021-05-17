@@ -1,0 +1,5 @@
+data-init:
+  groupList:
+  -
+    name : Customer
+    description : Customer

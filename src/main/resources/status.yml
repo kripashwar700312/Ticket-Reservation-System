@@ -1,0 +1,23 @@
+data-init:
+  statusList:
+    -
+      name: CREATE_APPROVE
+      description : ACTIVE
+    -
+      name: CREATE_PENDING
+      description : PENDING
+    -
+      name: EDIT_APPROVE
+      description : ACTIVE
+    -
+      name: EDIT_PENDING
+      description : PENDING
+    -
+      name: BLOCKED_APPROVE
+      description : BLOCKED
+    -
+      name: UNBLOCK_APPROVE
+      description : ACTIVE
+    -
+      name: UNBLOCK_PENDING
+      description : PENDING

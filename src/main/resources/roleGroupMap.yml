@@ -1,0 +1,11 @@
+data-init:
+  RoleGroupMapList:
+  -
+    groupName: Customer
+    roleName: Reserve Ticket
+  -
+    groupName: Customer
+    roleName: View Reserved Ticket
+  -
+    groupName: Customer
+    roleName: Payment
